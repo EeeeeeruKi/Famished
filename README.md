@@ -42,16 +42,6 @@
 2. ダウンロードした jar を、Minecraft の `mods` フォルダに入れます。
 3. Forge 1.20.1 でゲームを起動します。
 
-## ビルド方法
-
-Java 17 と Gradle が必要です。
-
-```
-gradle build
-```
-
-`build/libs` に jar が作られます。
-
 ## ライセンス
 
 [MIT License](LICENSE)
