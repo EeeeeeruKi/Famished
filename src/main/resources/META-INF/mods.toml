@@ -4,11 +4,12 @@ license="MIT"
 
 [[mods]]
 modId="famished"
-version="1.0.0"
+version="1.1.0"
 displayName="Famished"
 description='''
-空腹になると、攻撃のリーチが短くなります。
-満腹度6以下で -0.5、2以下で -1.0 です。
+空腹や低HPのとき、プレイヤーが弱くなります。
+・満腹度6以下: 攻撃のリーチ -0.5（2以下で -1.0）、攻撃力 -4
+・HP10以下: 移動速度 -10%（6以下で -25%、4以下で -40%）
 '''
 
 [[dependencies.famished]]
