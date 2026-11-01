@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="famished"
+version="1.0.0"
+displayName="Famished"
+description='''
+空腹になると、攻撃のリーチが短くなります。
+満腹度6以下で -0.5、2以下で -1.0 です。
+'''
+
+[[dependencies.famished]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.famished]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

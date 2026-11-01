@@ -1,0 +1,12 @@
+build/
+.gradle/
+run/
+runs/
+out/
+bin/
+logs/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+__MACOSX/
