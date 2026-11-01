@@ -1,6 +1,6 @@
 # Famished
 
-空腹になると、攻撃のリーチが短くなる Minecraft の Mod です。
+空腹になると、プレイヤーが弱くなる Minecraft の Mod です。
 
 > このmodは大部分または全てAIによって作成されました。
 
